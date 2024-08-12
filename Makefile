@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=el_attempt
 
 BUILDDIR=build
 
